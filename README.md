@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mickeyhng
+- 👀 I’m interested in chemistry, engineering, and mathematics. My specific interest is numerical modeling and simulation.
+- 🌱 I’m currently learning machine learning and data visualization to work on an old master project (Particle Tracking of Microplastics in Gulf of California) that I didn't get a chance to finish
+- 💞️ I’m looking for a entry-level position in chemistry or process engineering in environmental or process control.
